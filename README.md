@@ -39,4 +39,7 @@ The project utilizes SQL for data extraction, transformation, and analysis. The 
 Conclusion
 
 This project demonstrates the application of data analysis techniques to real-world business problems, providing a solid foundation for making data-driven decisions in the context of pizza sales. The insights derived from this analysis can help businesses optimize their menu offerings, pricing strategies, and marketing efforts.
-<img width="367" alt="image" src="https://github.com/mdiftekhar1992/SQL_Pizza_Sales_Analysis-/assets/150526044/ff84d63a-7fef-41af-b3ec-9ffcf0cd8a69">
+
+
+![Pizza_page_1](https://github.com/mdiftekhar1992/SQL_Pizza_Sales_Analysis-/assets/150526044/b154ccb1-0e8f-4458-966c-71e35a98250a)
+
